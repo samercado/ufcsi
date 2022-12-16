@@ -1,0 +1,18 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    color: #fff5f5;
+  }
+  p.double {border-style: double;}
+
+  div {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
+  Div {
+    border: 5px outset red;
+    background-color: lightblue;
+    text-align: center;
+    <div> 
+    
